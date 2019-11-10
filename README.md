@@ -8,7 +8,9 @@
 
 *当然，远不仅限于此。*
 
+注：各个链接可以ctrl+左键打开
 
+注2：请不要直接编辑此文档，请到本文档的[Github链接](https://github.com/1847905557/Guidance-in-Perseus)参与编辑
 
 ***
 
